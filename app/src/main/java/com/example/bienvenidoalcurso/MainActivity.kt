@@ -1,4 +1,4 @@
-package com.example.bienvenidoalcurso 
+package com.example.bienvenidoalcurso
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
